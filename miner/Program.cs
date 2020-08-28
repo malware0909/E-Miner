@@ -229,10 +229,10 @@ namespace m
 		private static string loggr = "";
 
 		// Token: 0x04000003 RID: 3
-		private static string pool = "pool.supportxmr.com:3333";
+		private static string pool = "";
 
 		// Token: 0x04000004 RID: 4
-		private static string u = "4BrL51JCc9NGQ71kWhnYoDRffsDZy7m1HUU7MRU4nUMXAHNFBEJhkTZV9HdaL4gfuNBxLPc3BeMkLGaPbF5vWtANQq8ANCL4mu9QqMXeRL";
+		private static string u = "";
 
 		// Token: 0x02000003 RID: 3
 		private class Config
